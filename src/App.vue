@@ -1,4 +1,5 @@
 <template>
+  <!-- 项目初始化 -->
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
